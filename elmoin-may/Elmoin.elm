@@ -28,6 +28,10 @@ Haskell?
 
 Elm?
 
+DataViz?
+
+SAP?
+
 
 # Who am I?
 
@@ -45,7 +49,7 @@ FP Newbie
 ![graphomate gang](img/graphomate.JPG)
 
 
-# graphomate Products
+# graphomate products
 
 Extensions for SAP Design Studio and Excel
 
